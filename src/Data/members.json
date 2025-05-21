@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": 1,
+    "nama": "Rizky Ramadhan",
+    "email": "rizky@gmail.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": 2,
+    "nama": "Ayu Lestari",
+    "email": "ayu@gmail.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": 3,
+    "nama": "Budi Santoso",
+    "email": "budi@gmail.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": 4,
+    "nama": "Citra Anjani",
+    "email": "citra@gmail.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": 5,
+    "nama": "Dewi Kartika",
+    "email": "dewi@gmail.com",
+    "tipe_member": "gold"
+  }
+]
